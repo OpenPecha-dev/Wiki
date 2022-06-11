@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">Template</h3>
+<h3 align="center">Wiki</h3>
 
 
 <!-- Replace the title of the repository -->
@@ -19,7 +19,7 @@
 
 ## Description
 
-The template repo to be used across all repos.
+The OpenPecha Development Wiki
 
 <!-- This section provides a high-level overview for the repo -->
 
@@ -38,6 +38,6 @@ The template repo to be used across all repos.
 
 ## Docs
 
-No documentations.
+- [Docs](/docs/README.md)
 
 <!-- This section must link to the docs which are in the root of the repository in /docs -->
