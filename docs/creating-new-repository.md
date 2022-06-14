@@ -16,4 +16,12 @@ Using as an example a repository which is the "frontend" for "something":
 
 2) Once the repository is created, always start by editing the `README.md` of the repository, carefully following the comments in that file to make sure that there is no devitation from the standard in terms of formatting or any other aspect
 
-3) If the repository has any docs, add them to `/docs` in the root of the repository
+3) Add a short description in the About section
+
+4) If the repository has any docs, add them to `/docs` in the root of the repository
+
+5) Review your changes in several loops:
+- Text clarity. _Can a 8 years old understand what you wrote?_
+- Message clarity. _Can I use code snippets, images or emojis to make my message clearer?_
+- Spelling mistakes, [capitalisation]([url](https://www.grammarly.com/blog/capitalization-rules/)) and punctuation
+- Layout and links
