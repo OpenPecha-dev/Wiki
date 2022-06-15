@@ -138,6 +138,8 @@ Simple markup language for semantic annotations.
 ![](https://user-images.githubusercontent.com/17675331/144018718-802beb99-326b-4bc7-9323-bbf6fe7e2b3f.png)
 
 
+## Reference
+
 <details>
   <summary>HFML tagset from 2021</summary>
   
