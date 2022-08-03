@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/OpenPecha/Wiki/wiki/"><img src="https://user-images.githubusercontent.com/17675331/182560156-deece91b-6bc5-440f-809a-463024030c8e.png" alt="OpenPecha" width="150"></a>
+  <a href="https://github.com/OpenPecha/Wiki/wiki/"><img src="https://user-images.githubusercontent.com/17675331/182562335-3507b5a5-ee62-4fe9-a448-4e38081b204a.png" alt="OpenPecha" width="150"></a>
   <br>
 </h1>
 
