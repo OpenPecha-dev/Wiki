@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#description">Description</a> •
-  <a href="#owner">Owner</a> •
+  <a href="#owner">Owner</a>
 </p>
 <hr>
 
