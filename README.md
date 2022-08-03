@@ -30,15 +30,3 @@ The OpenPecha Development Wiki
 - [@mikkokotila](https://github.com/mikkokotila)
 
 <!-- This section lists the owners of the repo -->
-
-## Integrations
-
-- No integrations with other repos.
-
-<!-- This section must list as bulleted list how this repo depends or is integrated with other repos -->
-
-## Docs
-
-- [Docs](/docs/README.md)
-
-<!-- This section must link to the docs which are in the root of the repository in /docs -->
