@@ -1,10 +1,11 @@
 <h1 align="center">
   <br>
-  <a href="https://openpecha.org"><img src="https://avatars.githubusercontent.com/u/82142807?s=400&u=19e108a15566f3a1449bafb03b8dd706a72aebcd&v=4" alt="OpenPecha" width="150"></a>
+  <a href="https://github.com/OpenPecha/Wiki/wiki/"><img src="https://user-images.githubusercontent.com/17675331/182560156-deece91b-6bc5-440f-809a-463024030c8e.png" alt="OpenPecha" width="150"></a>
   <br>
 </h1>
 
-<h3 align="center">Wiki</h3>
+
+<h3 href="https://github.com/OpenPecha/Wiki/wiki/" align="center">Wiki</h3>
 
 
 <!-- Replace the title of the repository -->
