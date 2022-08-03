@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 href="https://github.com/OpenPecha/Wiki/wiki/" align="center">Wiki</h3>
+<a href="https://github.com/OpenPecha/Wiki/wiki/"> <h3 align="center">OpenPecha Wiki</h3></a>
 
 
 <!-- Replace the title of the repository -->
@@ -13,8 +13,6 @@
 <p align="center">
   <a href="#description">Description</a> •
   <a href="#owner">Owner</a> •
-  <a href="#integrations">Integrations</a> •
-  <a href="#docs">Docs</a>
 </p>
 <hr>
 
