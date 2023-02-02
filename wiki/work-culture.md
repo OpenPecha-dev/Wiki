@@ -1,3 +1,5 @@
+
+# Work culture
 ## What is an RFW?
 * RFW stands for **request for work**. 
 * It is a detailed product specification that the product department submits following a standard template. 

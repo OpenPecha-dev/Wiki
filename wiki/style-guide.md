@@ -1,3 +1,6 @@
+
+# Style guide
+
 Welcome to the OpenPecha style guide!
 
 This page describes OpenPecha's visual branding, documentation, and writing style.
