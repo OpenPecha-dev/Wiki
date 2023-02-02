@@ -1,30 +1,19 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/OpenPecha/Wiki/wiki/"><img src="https://user-images.githubusercontent.com/17675331/182562335-3507b5a5-ee62-4fe9-a448-4e38081b204a.png" alt="OpenPecha" width="150"></a>
-  <br>
-</h1>
+# git-wiki-skeleton
 
+NOTE: it's fully supported by github platform, you don't need to install anything locally
 
-<a href="https://github.com/OpenPecha/Wiki/wiki/"> <h3 align="center">OpenPecha Wiki</h3></a>
+This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
 
+For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
 
-<!-- Replace the title of the repository -->
+## The git-wiki project
 
-<p align="center">
-  <a href="#description">Description</a> •
-  <a href="#owner">Owner</a>
-</p>
-<hr>
+The git-wiki project is composed by 3 different repository:
 
-## Description
+- [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
 
-The OpenPecha Development Wiki
+- [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it. 
 
-<!-- This section provides a high-level overview for the repo -->
+- [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
 
-## Owner
-
-- [@ngawangtrinley](https://github.com/ngawangtrinley)
-- [@mikkokotila](https://github.com/mikkokotila)
-
-<!-- This section lists the owners of the repo -->
+Version: 1.0.8
