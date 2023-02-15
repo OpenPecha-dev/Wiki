@@ -63,7 +63,7 @@ If the approved RFC is for an **ongoing** project:
 1. [Move the RFC back to the Requests repo](https://docs.github.com/en/issues/tracking-your-work-with-issues/transferring-an-issue-to-another-repository) so management can easily find it.
 
 
-## 8 Set up your work environment
+## 8. Set up your work environment
 
 1. Clone the repo to your local machine.
 1. Make a feature branch.
@@ -71,7 +71,7 @@ If the approved RFC is for an **ongoing** project:
 
 > **Note**: see also OpenPecha's coding guidelines()
 
-## 8. Do the work and create pull requests
+## 9. Do the work and create pull requests
 
 1. Move the issue/workphase you are working on to the **In Progress** column of your project board.
 1. Work on it and add commits.
@@ -82,12 +82,12 @@ If the approved RFC is for an **ongoing** project:
 1. Move the issue/workphase to the **PRs in Review** column of your project board.
 1. Let your assigned reviewers know the PR is ready for them.
 
-## 9. Move to the next issue/workphase
+## 10. Move to the next issue/workphase
 
 After the PR has been merged:
 
 1. Move the issue to the **Done** column of the project board.
-1. Make a next feature branch for the next issue and repeat steps eight and nine until the RFC is finished.
+1. Make a next feature branch for the next issue and repeat steps nine and 10 until the RFC is finished.
 
 ## 10. Review the process
 
