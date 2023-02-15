@@ -18,7 +18,6 @@
 * An RFC should contain no more than two weeks worth of work so that you can complete it in one sprint.
 * RFCs are broken down into work phases.
 * Each RFC work phase should:
-
    * Create value
    * Contain about a day of work or less for one person
    * Be testable

@@ -69,6 +69,8 @@ If the approved RFC is for an **ongoing** project:
 1. Make a feature branch.
 1. Checkout to that branch.
 
+> **Note**: see also OpenPecha's coding guidelines()
+
 ## 8. Do the work and create pull requests
 
 1. Move the issue/workphase you are working on to the **In Progress** column of your project board.
