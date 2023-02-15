@@ -1,5 +1,5 @@
 
-# Workflow for developers
+# Development workflow
 
 This is the workflow for when an OpenPecha developer receives a new RFW from management:
 
@@ -51,7 +51,7 @@ If the approved RFC is for an **ongoing** project:
 
 ## 5. Convert workphase items into issues
 
-1. Convert each item in the RFC's workphase section [into an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item).
+1. Convert each item in the RFC's work phase section [into an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item).
 
 ## 6. Assign issues to people and add to the project board
 
@@ -62,27 +62,26 @@ If the approved RFC is for an **ongoing** project:
 
 1. [Move the RFC back to the Requests repo](https://docs.github.com/en/issues/tracking-your-work-with-issues/transferring-an-issue-to-another-repository) so management can easily find it.
 
-
 ## 8. Set up your work environment
 
 1. Clone the repo to your local machine.
 1. Make a feature branch.
 1. Checkout to that branch.
 
-> **Note**: see also OpenPecha's coding guidelines()
+> **Note**: see also OpenPecha's [coding guidelines](articles/coding-guidelines.md)
 
 ## 9. Do the work and create pull requests
 
-1. Move the issue/workphase you are working on to the **In Progress** column of your project board.
+1. Move the issue/work phase you are working on to the **In Progress** column of your project board.
 1. Work on it and add commits.
 1. Go to your daily standup meeting. 
-1. When you finish the issue/workphase, test your work.
+1. When you finish the issue/work phase, test your work.
 1. Make any revisions you need to make.
 1. Repeat steps four and five until the code is ready.
-1. Move the issue/workphase to the **PRs in Review** column of your project board.
+1. Move the issue/work phase to the **PRs in Review** column of your project board.
 1. Let your assigned reviewers know the PR is ready for them.
 
-## 10. Move to the next issue/workphase
+## 10. Move to the next issue/work phase
 
 After the PR has been merged:
 
