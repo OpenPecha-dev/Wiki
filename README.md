@@ -1,2 +1,1 @@
-# Docs
-Documentation for the BuddhistCAT
+# OpenPecha development guidelines

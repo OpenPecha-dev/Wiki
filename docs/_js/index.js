@@ -15,7 +15,7 @@ window.$docsify = {
   mergeNavbar: true,
   maxLevel: 4,
   subMaxLevel: 2,
-  name: 'OpenPecha development guidelines།',
+  name: 'OpenPecha development guidelines',
   search: {
     maxAge: 0, // 86400000 Expiration time, the default one day
     noData: {
