@@ -14,7 +14,7 @@ Review the RFW and [create an RFC](https://github.com/OpenPecha/Requests/issues/
 1. Filling out the RFC
 1. Submitting it in the [Requests repo](https://github.com/OpenPecha/Requests/) 
 
-See [Everything you ever wanted to know about RFCs but were afraid to ask](article/rfc-about.md) for more.
+See [Everything you ever wanted to know about RFCs but were afraid to ask](article/rfc-about.md) for more about RFCs.
 
 > **Note**: This process should take two days or less.
 
@@ -89,7 +89,7 @@ After the PR has been merged:
 1. Move the issue to the **Done** column of the project board.
 1. Make a next feature branch for the next issue and repeat steps nine and 10 until the RFC is finished.
 
-## 10. Review the process
+## 11. Review the process
 
 After you finish all of the RFC's work phases:
 
