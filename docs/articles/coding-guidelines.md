@@ -2,7 +2,7 @@
 # Coding guidelines
 ## General
 
-- Use [_OpenPecha Project Template_](https://github.com/OpenPecha/openpecha-project-template/generate) to create new project.
+- Use [OpenPecha Project Template](https://github.com/OpenPecha/openpecha-project-template/generate) to create new project.
 - `python` version >= `3.8`
 - Every project should be a Python installable `python package`.
   - [Packaging Python projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
@@ -28,7 +28,6 @@
 ---
 
 ## Project setup
-
 
 ### Prerequisites
 
@@ -73,7 +72,6 @@ pre-commit install
 
 ## Development
 
-
 ### Add dependencies
 
 ```python
@@ -102,7 +100,6 @@ coverage html
 ```
 
 Then open `./htmlcov/index.html` in your preferred web browser.
-
 
 ---
 ### Need help?

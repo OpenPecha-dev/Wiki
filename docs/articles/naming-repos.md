@@ -1,7 +1,7 @@
 
-# Repo naming conventions
+# How to name new repositories
 
-Using as an example a repository that is the "frontend" for "something":
+Using as an example a repo that is the "frontend" for "something":
 
 *   If you're creating a production repository, name it `Something-Frontend`
 *   If it's not a production repository, nor will it be in the future, name it `something-frontend`

@@ -1,12 +1,12 @@
-- Work culture
+- Developer documents
+  - [Development workflow](articles/developer-workflow.md)
+  - [About RFWs](articles/rfw-about.md)
+  - [About RFCs](articles/rfc-about.md) 
   - [Coding guidelines](articles/coding-guidelines.md)
-  - [Repo naming](articles/repo-naming.md)
-  - [How to fill out an RFC](articles/rfc-how-to.md)
-  - [Work culture](articles/work-culture.md)
-  - [Workflow for developers](articles/workflow-for-developers.md)
-- Process
-  - [](articles/)
-  - [](articles/)
+  - [Naming repos](articles/repo-naming.md)
+
+- Work culture  
+  - [Daily standups](articles/daily-standups.md)
+
 - Non-technical
   - [](articles/visual-branding.md)
-  - [](articles/)

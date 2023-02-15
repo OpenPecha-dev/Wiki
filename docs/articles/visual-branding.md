@@ -1,15 +1,11 @@
 
-# Style guide
+# Visual branding
 
-Welcome to the OpenPecha style guide!
+Welcome to the OpenPecha visual branding page!
 
-This page describes OpenPecha's visual branding, documentation, and writing style.
+## Logo conventions
 
-## Visual Branding
-
-### Logo conventions
-
-### Colors
+## Colors
 
 OpenPecha uses these four colors:
 
@@ -19,11 +15,3 @@ OpenPecha uses these four colors:
 - HEX: #ec4c12
 
 ![OP colors](https://user-images.githubusercontent.com/51434640/212845902-19aa18ef-2ccd-4513-9701-8f76f3f753fa.png)
-
-## Documentation
-
-OpenPecha uses the [Good Docs Project templates](https://gitlab.com/tgdp/templates).
-
-## Writing style
-
-OpenPecha uses plain English.
