@@ -9,4 +9,4 @@
   - [Daily standups](articles/daily-standups.md)
 
 - Non-technical
-  - [](articles/visual-branding.md)
+  - [Visual branding](articles/visual-branding.md)

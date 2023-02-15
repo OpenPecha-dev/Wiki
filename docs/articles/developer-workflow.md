@@ -14,9 +14,9 @@ Review the RFW and [create an RFC](https://github.com/OpenPecha/Requests/issues/
 1. Filling out the RFC
 1. Submitting it in the [Requests repo](https://github.com/OpenPecha/Requests/) 
 
-See [How fill out an RFC](#) for specific directions.
+See [Everything you ever wanted to know about RFCs but were afraid to ask](article/rfc-about.md) for more.
 
-> **Note** This process should take no more than two days.
+> **Note**: This process should take two days or less.
 
 ## 2. Get the RFC approved
 
@@ -25,7 +25,7 @@ See [How fill out an RFC](#) for specific directions.
 1. Integrate management's suggestions.
 1. Submit the RFC for management to sign off on.
 
-> **Note** This process should take no more than two days.
+> **Note**: This process should take three days or less.
 
 ## 3. Create a repository for the project
 
@@ -42,9 +42,6 @@ If the approved RFC is for an **ongoing** project:
 
 1. Update the repo's README file if needed to include information about the new work you are doing.
 1. Transfer the RFC to the repo where you will be working.
-
-1.  When creating a new **OpenPecha** repository, use [new-repo-template](https://github.com/OpenPecha-dev/new-repo-template) by selecting it in the new repository creation dialogue.
-2.  Once the repository is created, start by editing the `README.md` of the repository, carefully following the comments in that file to make sure that there are no devitations from the standard in formatting or any other aspect.
 
 ## 4. Create a GitHub project in the repository
 
@@ -65,22 +62,22 @@ If the approved RFC is for an **ongoing** project:
 
 1. [Move the RFC back to the Requests repo](https://docs.github.com/en/issues/tracking-your-work-with-issues/transferring-an-issue-to-another-repository) so management can easily find it.
 
+
+## 8 Set up your work environment
+
+1. Clone the repo to your local machine.
+1. Make a feature branch.
+1. Checkout to that branch.
+
 ## 8. Do the work and create pull requests
-
-- Clone the repo to local
-- Make a feature branch
-- Checkout to that branch
-- Start working on it
-
 
 1. Move the issue/workphase you are working on to the **In Progress** column of your project board.
 1. Work on it and add commits.
 1. Go to your daily standup meeting. 
-1. When you finish the issue issue/workphase, move it to the **PRs in Review** column of your project board
-
-- Once tested send PR to main
-
-1. Submit a PR for the issue/workphase.
+1. When you finish the issue/workphase, test your work.
+1. Make any revisions you need to make.
+1. Repeat steps four and five until the code is ready.
+1. Move the issue/workphase to the **PRs in Review** column of your project board.
 1. Let your assigned reviewers know the PR is ready for them.
 
 ## 9. Move to the next issue/workphase
@@ -88,12 +85,10 @@ If the approved RFC is for an **ongoing** project:
 After the PR has been merged:
 
 1. Move the issue to the **Done** column of the project board.
-1. Move on to the mext issue and repeat step 8 until the RFC is finished.
-
-- Make a next feature branch for the next work item and continue until you have completed all the items
+1. Make a next feature branch for the next issue and repeat steps eight and nine until the RFC is finished.
 
 ## 10. Review the process
 
-After you finish all the work phases of the RFC:
+After you finish all of the RFC's work phases:
 
-1. Review the process with your scrum master and teammate(s), if any, to see what worked well and what didn't work so well. Use this knowledge to prepare and complete your next RFC.
+1. Review the process with your scrum master and teammate(s),(if any), to see what worked well and what didn't work so well. Use this knowledge to prepare and complete your next RFC.

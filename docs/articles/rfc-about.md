@@ -1,35 +1,37 @@
 # Everything you ever wanted to know about RFCs but were afraid to ask
 
-
 ## What is an RFC?
 
 * RFC stands for **request for comments**. 
-* An RFC is a detailed engineering specification that the R&D department submits following a standard template, based on an RFW. 
-* It focuses on *how* and *when* specifications will be satisfied.
+* An RFC is a detailed engineering specification that the R&D department submits following a standard template, based on an [RFW](articles/rfw-about.md). 
+* It focuses on *how* and *when* the specifications in an RFW will be satisfied.
 
-## When do you fill out an RFC?
+## When should you fill out an RFC?
 
-* Only start an RFC after the related RFW is done.
+* Only start an RFC after the related RFW is complete.
 
-## How do you fill out an RFC?
+## What do you need to know about filling in an RFC?
 
-* RFXs are developed offline and published ONLY when ready
-* An RFC should contain no more than two weeks worth of work.
-* Each RFC work phase should:
+* You can get blank RFCs by navigating to OpenPecha/Requests > Issues > New Issue and selecting [RFC template](https://github.com/OpenPecha/Requests/issues/new?assignees=&labels=&template=RFC.md&title=%5BRFC%5D).
+* You should work on RFCs in a text editor and only publish them when you are done.
+* While you are working on an RFC, you can reach out to your fellow developers to get opinions.
+* An RFC should contain no more than two weeks worth of work so that you can complete it in one sprint.
+* Each work phase in an RFC should:
    * Create value
    * Take less than a day
    * Be testable
-   * Be converted to issue and linked to a PR so that your peer developers can review it and merge the code to main code.
-   * Be placed in a project board to track the work phases.
+   * Be converted to issue and linked to a PR so that your peer developers can review it and merge the code to main code
+   * Be placed in a project board to track the work phases
 
+## What is the RFC approval process and how long does it take?
 
-* While filling out an RFC, a developer can reach out to their fellow developers to get opinions.
-* It should be approved within three days after seeking aprroval from NT, Mikko, and Elie.
+1. Publish your RFC on OpenPecha/Requests.
+1. Let NT, Mikko, and Elie know that the RFC is ready and meet individually with each of them to get feedback. 
+1. Refine your RFC based on their feedback.
+1. Repeat steps two and three until the RFC is approved.
+
+The approval process should take three days or less.
 
 ## Can you change an RFC once it is approved?
 
-* An RFC details the entire development process for a unit of work. It's a sealed unit of action that doesn't change once it's started.
-* Once an RFC is approved, it can't be changed, as that would be like playing on a football ground with shifting goal posts.
-
-
-* The RFC has to be sealed and not changed so it to contain all information required to carry it out -- self-contained
+* No. An RFC is a sealed unit of action that doesn't change once it's started. Changing it would be like playing on a football ground with shifting goal posts.
