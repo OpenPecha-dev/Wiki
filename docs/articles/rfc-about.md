@@ -16,9 +16,11 @@
 * You should work on RFCs in a text editor and only publish them when you are done.
 * While you are working on an RFC, you can reach out to your fellow developers to get opinions.
 * An RFC should contain no more than two weeks worth of work so that you can complete it in one sprint.
-* Each work phase in an RFC should:
+* RFCs are broken down into work phases.
+* Each RFC work phase should:
+
    * Create value
-   * Take less than a day
+   * Contain about a day of work or less for one person
    * Be testable
    * Be converted to issue and linked to a PR so that your peer developers can review it and merge the code to main code
    * Be placed in a project board to track the work phases
