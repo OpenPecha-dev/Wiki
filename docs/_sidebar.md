@@ -1,4 +1,12 @@
-- Quick start
-  - [Step 1](mt/webpage-catalog.md)
-- How to
-  - [How to 1](howto/github.md)
+- Work culture
+  - [Coding guidelines](articles/coding-guidelines.md)
+  - [Repo naming](articles/repo-naming.md)
+  - [How to fill out an RFC](articles/rfc-how-to.md)
+  - [Work culture](articles/work-culture.md)
+  - [Workflow for developers](articles/workflow-for-developers.md)
+- Process
+  - [](articles/)
+  - [](articles/)
+- Non-technical
+  - [](articles/visual-branding.md)
+  - [](articles/)

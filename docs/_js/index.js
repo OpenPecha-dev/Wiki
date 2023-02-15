@@ -15,7 +15,7 @@ window.$docsify = {
   mergeNavbar: true,
   maxLevel: 4,
   subMaxLevel: 2,
-  name: 'སྨོན་ལམ་རིག་ནུས།',
+  name: 'OpenPecha development guidelines།',
   search: {
     maxAge: 0, // 86400000 Expiration time, the default one day
     noData: {
@@ -29,7 +29,7 @@ window.$docsify = {
   formatUpdated: '{MM}/{DD} {HH}:{mm}',
   externalLinkTarget: '_self',
   plugins: [
-    EditOnGithubPlugin.create('https://github.com/MonlamAI/Wiki/blob/main/docs/', null, path => {
+    EditOnGithubPlugin.create('https://github.com/openpecha/Wiki/blob/main/docs/', null, path => {
       if (path.indexOf('en/') === 0) {
         return '✏️';
       } else {
