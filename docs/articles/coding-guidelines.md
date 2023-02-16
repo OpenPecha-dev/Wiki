@@ -3,7 +3,7 @@
 ## General
 
 - Use [OpenPecha Project Template](https://github.com/OpenPecha/openpecha-project-template/generate) to create new project.
-- `python` version >= `3.8`
+- `python` version should be >= `3.8`.
 - Every project should be a Python installable `python package`.
   - [Packaging Python projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
   - [Packages and importing modules](https://docs.python.org/3/tutorial/modules.html#packages)
@@ -35,7 +35,7 @@
 - Make sure you have cloned your repo onto your local machine.
 - Make sure you are inside your project repo.
 
-### 1. Setup environment
+### 1. Environment setup
 
 1.1. Create environment
 
@@ -57,7 +57,7 @@ source .venv/bin/activate
  .\venv\Scripts\activate
 ```
 
-### 2. Install
+### 2. Installation
 
 ```bash
 pip install -U pip
@@ -87,14 +87,13 @@ dependencies = [
 
 ## Testing
 
-
 ```bash
 PYTHONPATH=src pytest
 PYTHONPATH=src pytest --cov <project_name>
 ```
-> **Note** Please, replace `<project_name>` with your project name.
+> **Note**: Please, replace `<project_name>` with your project name.
 
-### Test Coverage Details
+### Test coverage details
 ```bash
 coverage html
 ```
@@ -103,4 +102,4 @@ Then open `./htmlcov/index.html` in your preferred web browser.
 
 ---
 ### Need help?
-- Contact [Tenzin](https://github.com/10zinten) or [Tenzin Kaldan](https://github.com/kaldan007) on [Discord](https://discord.com/invite/7GFpPFSTeA) 
+- Contact [Tenzin](https://github.com/10zinten) or [Tenzin Kaldan](https://github.com/kaldan007) on [Discord](https://discord.com/invite/7GFpPFSTeA). 
