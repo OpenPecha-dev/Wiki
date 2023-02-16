@@ -4,22 +4,46 @@
   <meta charset="UTF-8">
   <title>OpenPecha development guidelines</title>
   <link rel="icon" href="_assets/favicon.ico">
-  <meta name="description" content="Tool">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" title="vue">
   <link rel="stylesheet" href="_style/light.css">
   <link rel="stylesheet" href="_style/custom.css">
   <link rel="stylesheet" href="_style/dark.css" media="(prefers-color-scheme: dark)">
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
 </head>
 <body>
   <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'OpenPecha Wiki',
+      repo: 'https://github.com/openpecha/Wiki',
+      coverpage: false,
+      loadSidebar: true,
+      subMaxLevel: 0,
+      auto2top: true,
+      logo: '/assets/logo.png',
+      themeColor: '#8e57f1',
+      ga: 'UA-145106145-1',
+
+      search: {
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: 'auto', // or 'auto'
+      placeholder: 'Type to search',
+      hideOtherSidebarContent: true,
+      depth: 6},
+
+      plugins: [EditOnGithubPlugin.create('https://github.com/openpecha/Wiki/blob/main/docs/')],
+
+    }
+  </script>
+
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-python.js"></script>
+
 </body>
-<script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github/index.js"></script>
-<script src="_js/index.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-<!-- <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
-<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-javascript.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-json.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
-<script src="_js/plugins.js"></script>
 </html>
