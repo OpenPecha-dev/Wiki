@@ -1,5 +1,5 @@
 
-# Development workflow
+# Developer's workflow
 
 This is the workflow for when an OpenPecha developer receives a new RFW from management:
 

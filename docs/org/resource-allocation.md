@@ -13,7 +13,7 @@ Each engineering stage describes the current phase of a product specification. T
 
 **Request for comments** is a detailed engineering specification that the R&D department submits following a standard template, based on the underlying RFW. The shorthand is RFC.
 
-**Work order** is the final stage before an engineering specification described in the underlying RFC becomes allocated in the next  engineering cycle. The shorthand is WO.
+**Work order** is the final stage before an engineering specification described in the underlying RFC becomes allocated in the next engineering cycle. The shorthand is WO.
 
 **Work ID** identifies connections between various stages in the resource allocation process. The shorthand is WID.
 
@@ -32,7 +32,7 @@ The R&D department's resource allocation falls into four categories:
 
 ### 1.2.1 Work orders
 
-In any given time window, the  majority of available R&D resources are allocated based on product specifications making their way from an RFW to an RFC and reaching the WO stage. One hundred percent of material changes to OpenPecha solutions result from a given product specification reaching the WO stage. There are no other means to cause material changes to OpenPecha solutions. As outlined elsewhere, the R&D department depends on the product department for WOs.
+In any given time window, the majority of available R&D resources are allocated based on product specifications making their way from an RFW to an RFC and reaching the WO stage. One hundred percent of material changes to OpenPecha solutions result from a given product specification reaching the WO stage. There are no other means to cause material changes to OpenPecha solutions. As outlined elsewhere, the R&D department depends on the product department for WOs.
 
 ### 1.2.2. Issue resolution
 
