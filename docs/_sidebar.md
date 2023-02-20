@@ -2,7 +2,7 @@
 - [Home](README.md)
 
 - Development
-  - [Development workflow](dev/developmers-workflow.md)
+  - [Developer's workflow](dev/developers-workflow.md)
   - [About RFWs](dev/rfw-about.md)
   - [About RFCs](dev/rfc-about.md) 
   - [Coding guidelines](dev/coding-guidelines.md)
