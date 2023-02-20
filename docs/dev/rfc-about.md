@@ -14,7 +14,7 @@
 
 * You can get blank RFCs by navigating to OpenPecha/Requests > Issues > New Issue and selecting [RFC template](https://github.com/OpenPecha/Requests/issues/new?assignees=&labels=&template=RFC.md&title=%5BRFC%5D).
 * You should work on RFCs in a text editor and only publish them when you are done.
-* While you are working on an RFC, you can reach out to your fellow developers to get opinions.
+* While you're working on an RFC, you can reach out to your fellow developers to get opinions.
 * An RFC should contain no more than two weeks worth of work so that you can complete it in one sprint.
 * RFCs are broken down into work phases.
 * Each RFC work phase should:

@@ -1,7 +1,7 @@
 
 # Developer's workflow
 
-This is the workflow for when an OpenPecha developer receives a new RFW from management:
+This is everything you need to do as an OpenPecha developer when you receive and RFC 
 
 ## 1. Create an RFC
 
@@ -49,7 +49,7 @@ If the approved RFC is for an **ongoing** project:
 1. Update your project's description and README.
 1. Add a column after **In Progess** and call it **PRs in Review**.
 
-## 5. Convert workphase items into issues
+## 5. Convert work phase items into issues
 
 1. Convert each item in the RFC's work phase section [into an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-task-list-item).
 
@@ -60,7 +60,7 @@ If the approved RFC is for an **ongoing** project:
 
 ## 7. Move the RFC back to the Requests repo
 
-1. [Move the RFC back to the Requests repo](https://docs.github.com/en/issues/tracking-your-work-with-issues/transferring-an-issue-to-another-repository) so management can easily find it.
+1. [Move the RFC back to the Requests repo](https://docs.github.com/en/issues/tracking-your-work-with-issues/transferring-an-issue-to-another-repository) so management can find it.
 
 ## 8. Set up your work environment
 
@@ -74,7 +74,7 @@ If the approved RFC is for an **ongoing** project:
 
 1. Move the issue/work phase you are working on to the **In Progress** column of your project board.
 1. Work on it and add commits.
-1. Go to your daily standup meeting. 
+1. Go to your standup meetings. 
 1. When you finish the issue/work phase, test your work.
 1. Make any revisions you need to make.
 1. Repeat steps four and five until the code is ready.
@@ -86,10 +86,10 @@ If the approved RFC is for an **ongoing** project:
 After the PR has been merged:
 
 1. Move the issue to the **Done** column of the project board.
-1. Make a next feature branch for the next issue and repeat steps nine and 10 until the RFC is finished.
+1. Make a next feature branch for the next issue and repeat steps nine and 10 until the RFC is complete.
 
 ## 11. Review the process
 
-After you finish all of the RFC's work phases:
+After you finish all RFC work phases:
 
 1. Review the process with your scrum master and teammate(s),(if any), to see what worked well and what didn't work so well. Use this knowledge to prepare and complete your next RFC.

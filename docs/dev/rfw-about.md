@@ -8,7 +8,7 @@
 
 ## Minimum amount of work for an RFW
 
-Any task that is expected to take more than four hours to complete must be done on an independent RFW. Smaller tasks are bundled meaningfully into a single thematically consistent RFW. Thematic consistency refers to how the specifications can be fulfilled by an engineer by working on one part of the system. Specifications for different parts of the system must generally be their own RFWs.
+If you expect a task to take more than four hours to complete, it needs an RFW. Bundle smaller tasks into a single thematically consistent RFW. Thematic consistency refers to how the specifications can be fulfilled by an engineer by working on one part of the system. Generally, specifications for different parts of the system get their own RFWs.
 
 ## Two types of RFWS
 
@@ -17,7 +17,7 @@ There are two acceptable types of RFWs:
 - **Type-A**: re-arranges or extends something already built
 - **Type-B**: creates something new
 
-Mixing the two types of RFWs is prohibited, and RFWs that mix the two types will be rejected. RFWs of different types are also not allowed to depend on each other, as that would be the same as an RFW that mixes the two types.
+Mixing the two types of RFWs is prohibited, and RFWs that mix the two types will be rejected. RFWs of different types are also not allowed to depend on each other, as that would be like an RFW that mixes the two types.
 
 A simple way to think about both types of RFWs is that they have to be self-sustained. Before an RFW is moved to an RFC, it must stand on its own without another request being fulfilled.
 

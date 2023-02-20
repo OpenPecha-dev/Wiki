@@ -1,7 +1,7 @@
 
 # Roles and responsibilities
 
-The document starts by explaining the roles, responsibilities, and communication lines of R&D management personnel. It then continues to provide the same details for the various teams inside OpenPecha R&D, such as application engineering and data engineering, and provides a detailed team composition for each. 
+The document explaining the roles, responsibilities, and communication lines of OpenPecha's management, application engineering and data engineering teams.
 
 ## 1. Management
 
@@ -14,7 +14,7 @@ R&D management:
 
 ### CTO
 
-The CTO supports economically viable value creation by means of science and technology.
+The CTO supports economically viable value creation through science and technology.
 #### Responsibilities
 
 * Application development technology and methodology
@@ -26,12 +26,12 @@ The CTO supports economically viable value creation by means of science and tech
 * Platform environmental impact
 * Research and technology partnerships
 * Developer experience
-* R&D staff well-being
+* R&D staff wellbeing
 * R&D staff personal/professional development
 * R&D staffing
 * R&D budgeting and relevant financial modeling
 
-These responsibilities include all the responsibilities of the R&D department. Non-CTO-specific responsibilities include regularly participating in various company-wide activities such as management team meetings and seasonal planning.
+These responsibilities include all the responsibilities of the R&D department. Non-CTO-specific responsibilities include participating in various company-wide activities such as management team meetings and seasonal planning.
 
 #### Communication
 
@@ -47,7 +47,7 @@ The SVP of engineering's responsibilities contrast with those of the CTO in the 
 
 #### Communication
 
-The SVP of engineering has direct lines to the CTO and everyone else on the engineering team. In addition, the SVP of engineering has direct lines with product team counterparts.
+The SVP of engineering has direct lines to the CTO and everyone else on the engineering team. Moreover, the SVP of engineering has direct lines with product team counterparts.
 
 ### VPs of engineering
 
@@ -59,9 +59,9 @@ The SVP of engineering has direct lines to the CTO and everyone else on the engi
 
 The VPs' main direct communication lines are with their product team counterparts, R&D team leads, and the SVP of engineering.
 
-## 2. R&D Teams
+## 2. R&D teams
 
-Currently, the R&D department in OpenPecha consists of [three] teams with their respective functions.
+OpenPecha's R&D department consists of [three] teams with their respective functions.
 
 * Application engineering
 * Data engineering
@@ -100,10 +100,10 @@ Communication is primarily intra-department. For example, with infrastructure en
 
 #### Responsibilities
 
-The Data engineering team is responsible for everything related to data.
+The data engineering team is responsible for everything related to data.
 
 * Data integrity
-* Increasing the overall resiliency of data systems
+* Increasing the resiliency of data systems
 * Maintaining data collection and preprocessing integrity
 * Increasing the availability of data throughout the organization
 * Increasing the ability to recover from catastrophic failures
