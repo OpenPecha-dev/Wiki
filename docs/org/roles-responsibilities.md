@@ -3,7 +3,7 @@
 
 The document explaining the roles, responsibilities, and communication lines of OpenPecha's management, application engineering and data engineering teams.
 
-## 1. Management
+## Management
 
 R&D management: 
 
@@ -59,7 +59,7 @@ The SVP of engineering has direct lines to the CTO and everyone else on the engi
 
 The VPs' main direct communication lines are with their product team counterparts, R&D team leads, and the SVP of engineering.
 
-## 2. R&D teams
+## R&D teams
 
 OpenPecha's R&D department consists of [three] teams with their respective functions.
 
