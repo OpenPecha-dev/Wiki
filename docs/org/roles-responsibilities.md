@@ -1,11 +1,9 @@
 
 # Roles and responsibilities
 
-The document explaining the roles, responsibilities, and communication lines of OpenPecha's management, application engineering and data engineering teams.
+This document explains the roles, responsibilities, and communication lines of OpenPecha's management, application engineering team and data engineering team.
 
-## Management
-
-R&D management: 
+## R&D Management
 
 * CTO [Name]
 * SVP of engineering [Name]
@@ -35,7 +33,7 @@ These responsibilities include all the responsibilities of the R&D department. N
 
 #### Communication
 
-The CTO reports to the CEO with additional direct lines to product owners and various R&D department participants. Intra-department communication lines are described in the corresponding sections for each team in the R&D department.
+The CTO reports to the CEO with direct lines to product owners and various R&D department participants. Intra-department communication lines are described in the communication sections of each R&D team.
 
 Leads of individual R&D teams report to the SVP of engineering. [If the CTO acts as the lead of a given R&D team, mention it here]. 
 
@@ -53,7 +51,7 @@ The SVP of engineering has direct lines to the CTO and everyone else on the engi
 
 #### Responsibilities
 
-[Here choose between a) Each VP of engineering is responsible and the owner of the engineering aspect of individual product lines of OpenPecha, or b) VPs of engineering share the responsibilities of the SVP of engineering.]
+[Choose between a) Each VP of engineering is responsible for and the owner of the engineering aspect of individual product lines of OpenPecha, or b) VPs of engineering share the responsibilities of the SVP of engineering.]
 
 #### Communication
 
@@ -61,7 +59,7 @@ The VPs' main direct communication lines are with their product team counterpart
 
 ## R&D teams
 
-OpenPecha's R&D department consists of [three] teams with their respective functions.
+OpenPecha's R&D department consists of two teams:
 
 * Application engineering
 * Data engineering
@@ -107,8 +105,8 @@ The data engineering team is responsible for everything related to data.
 * Maintaining data collection and preprocessing integrity
 * Increasing the availability of data throughout the organization
 * Increasing the ability to recover from catastrophic failures
-* Improveing the energy efficiency of all data-related systems and processes
+* Improving the energy efficiency of all data-related systems and processes
 
 #### Communication
 
-Communication is intra-department only. The data engineering team resources are allocated through application engineering. There are no inter-department communication lines, except for exceptional cases when it is necessary and justified. Requests for inter-department communication must go through the SVP of engineering.
+Communication is intra-department only. Data engineering team resources are allocated through application engineering. There are no inter-department communication lines except for exceptional cases when it is necessary and justified. Requests for inter-department communication must go through the SVP of engineering.

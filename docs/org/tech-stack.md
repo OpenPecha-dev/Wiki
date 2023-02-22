@@ -26,13 +26,13 @@
 - [Smartlook](https://www.smartlook.com/) for application user behavior analytics
 - [Prometheus](https://prometheus.io/) for log file analysis
 
-## DevOps and Workflow
+## DevOps and workflow
  
 - Centralize CI/CD and related processes and assets on GitHub
 - Run frontends on Cloudflare Pages
 - Use Cloudflare edge workers whenever it makes sense
 - Run everything else on bare-metal, except when very small compute units are sufficient, in which case use cloud instances 
-- Always virtualize cloud instances and bare-metal with Docker
+- Virtualize cloud instances and bare-metal with Docker
 - Use Poetry for Python projects
 - Use [Postman](https://www.postman.com/) for API docs
 - Run everything that can't run on Cloudflare Pages, as Docker containers
