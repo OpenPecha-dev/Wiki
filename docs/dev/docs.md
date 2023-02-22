@@ -1,85 +1,73 @@
 
-# Filling out the docs in a new repository
+# Writing the docs for a new repository
 
-Configure the site and update the content
+To ensure that OpenPecha products have user-friendly documentation, our new repo templates contain a documentation template. 
 
+Completing the docs template is straightforward. You only need to:
 
-## 1. Configuring the site
+1. [Update the docs site's config file](#1-update-the-docs-sites-config-file)
+1. [Update the repository's README](#2-update-the-repositorys-readme)
+1. [Fill out three (or more) content pages](#3-fill-out-three-or-more-content-pages)
+1. [Publish the site by updating a few of the repo's settings](#4-publish-the-site-by-updating-a-few-of-the-repos-settings)
 
-### 1. Update `docs/index.html`
+## 1. Update the docs site's config file
 
-Update these four lines with the name and URL of the project
+The docs site's config file is `docs/index.html`, which you can find in the repo's docs folder.
 
-Line 5: Update `Tool name` to the name of the tool.
-Line 19: Update `Tool name` to the name of the tool.
-Line 20: Update the URL to the new project's URL.
-Line 36: Update `tool-name` in the URL to the name of the repository: `plugins: [EditOnGithubPlugin.create('https://github.com/openpecha/Toolname/blob/main/docs/`
+In the `docs/index.html` file, update these four lines:
 
-### 2. Update the GitHub Pages path
+- Line 5: Change `Tool name` to the name of the tool.
+- Line 19: Change `Tool name` to the name of the tool.
+- Line 20: Change the URL to the new project's URL.
+- Line 36: Change `tool-name` in the URL to the match the name of the repository: `plugins: [EditOnGithubPlugin.create('https://github.com/openpecha/tool-name/blob/main/docs/`
 
-On your projects GitHub page, navigate to **Settings** > **Pages**.
+## 2. Update the repository's README
 
-1. Under **Build and deployment**, set **Source* to **Deploy from a branch**.
-2. Set **Branch** to **main**, select the **/docs** folder and save.
+In the repository's README, update the following:
 
-[insert image]
+- The repo name
+- The repo description
+- The repo owners
+- Integrations
+- The docs site's URL. (It should be https://openpecha.github.io/new-repo-name but with `new-repo-name` changed to the new project's name. You can also find the docs site's URL in the repository's settings in the **Pages** section. You will set it up in step four.)
 
-Update the Repo README
+## 3. Fill out three (or more) content pages
 
-In the Repo README, update the following:
+The docs site has three essential pages:
 
-The repo name
-The repo owners
-Integrations
-The URL for the docs (get from the github pages path. It should be https://openpecha.github.io/new-repo-name)
+- An [Overview](#overview) that helps users quickly understand the product.
+- A [Getting started](#getting-started) guide that covers installation, configuration, and troubleshooting, and contains a short how-to so users can start using the software within minutes.
+- A [Reference](#reference) page to help users perform more advanced tasks with the software.
 
+You will fill out all three of these pages.
 
-Update the Docsify site content
+There are also two optional pages, which you can add, if necessary, after you finish the first three pages.
 
-## 2. Updating the content
+- An [Examples](#examples) page to give users code examples to perform common use cases.
+- A [Background](#background) page to provide a conceptual guide, background, historical context, etc. that the user might be interested in after they have used the software.
 
-There are three essential pages and two optional pages to make a minimum viable documentation MVD
-
-
-Pages:
-- Overview
-- Getting started
-- Reference
-
-and two optional pages
-
-- Examples
-- Background
-
-
-
-
+> **Note**: There are also **Help** and **License** pages, but you don't need to update these.
 
 ### Overview
 
-# Project name
+This is the homepage for the docs site. You can update it on the README file _inside the docs folder_ in the new repo.
 
-(This is the project's homepage)
+On this page: 
 
-## Short conceptual overview
+1. Update the title of the page to the name of the tool or project. Example: `# Botok`
+2. Write a short overview of the new tool or project. The overview should tell users:
+    - What it is/what it does
+    - What problem it solves
+    - How it works
+    - Any other high-level info that users might want to know before using it
 
-This page should tell users:
+#### Good overview examples:
 
-- What the project is/what it does
-- What problem it solves
-- How it works
-- Any other high-level info that users might want to know before using it
+- [Example 1](https://www.atlassian.com/software/jira/guides/more/jira-family#about-the-jira-platform)
+- [Example 2]()
+- [Example 3]()
 
-## Good overview examples:
-
-- [1](https://www.atlassian.com/software/jira/guides/more/jira-family#about-the-jira-platform)
-
-- [2]()
-
-- [3]()
-
-> **Note**: For longer or more in-depth information, us the **conceptual overview** page and add it to the sidebar.
-
+> **Note**: Put long or in-depth information on the [Background](#background) page. Th
 
 ### Getting started
 
@@ -316,3 +304,11 @@ The background page can include:
 
 No need to update.
 
+## 4. Publish the site by updating a few of the repo's settings
+
+On your projects GitHub page, navigate to **Settings** > **Pages**.
+
+1. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
+2. Set **Branch** to **main**, select the **/docs** folder and save.
+
+[insert image]
