@@ -7,8 +7,8 @@
   - [About RFWs](dev/rfw-about.md)
   - [About RFCs](dev/rfc-about.md) 
   - [Naming repos](dev/naming-repos.md)
-  - [Repo documentation](dev/docs.md)
-  - [Frontend - using Flowbite](dev/flowbite-figma.md)
+  - [Adding docs to repos](dev/docs.md)
+  - [Frontend - Using Flowbite](dev/flowbite-figma.md)
 
 - Organization & protocols
   - [Roles and responsibilities](org/roles-responsibilities.md)
