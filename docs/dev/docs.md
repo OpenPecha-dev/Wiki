@@ -212,6 +212,6 @@ The background page can include:
 On your project's GitHub page, navigate to **Settings** > **Pages**.
 
 1. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
-2. Set **Branch** to **main**, select the **/docs** folder and save.
+2. Set **Branch** to **main**, select the **/docs** folder and **save**.
 
-[insert image]
+<img width="672" alt="GitHub pages build and deploy" src="https://user-images.githubusercontent.com/51434640/220822866-b8d804be-ba89-4994-960f-b4ff6b0be8e4.png">
