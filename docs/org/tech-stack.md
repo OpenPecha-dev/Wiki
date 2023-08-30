@@ -30,6 +30,7 @@
  
 - Centralize CI/CD and related processes and assets on GitHub
 - Run frontends on Cloudflare Pages
+- Application that required saperate database should get deployed on [Render](https://render.com)
 - Use Cloudflare edge workers whenever it makes sense
 - Run everything else on bare-metal, except when very small compute units are sufficient, in which case use cloud instances 
 - Virtualize cloud instances and bare-metal with Docker
